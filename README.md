@@ -1,6 +1,6 @@
 # youtube-clone
 
-A weather forecast app built using React and Redux.
+A youtube clone demo built using React.
 
 ### Getting Started
 
